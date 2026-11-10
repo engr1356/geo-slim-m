@@ -25,7 +25,7 @@ GEOIP_KEEP = {
 
 GEOSITE_KEEP = {
     "CATEGORY-RU",
-    "google-deepmind",
+    "GOOGLE-DEEPMIND",
     "RU-BLOCKED",
     "CATEGORY-ADS-ALL",
     "PRIVATE",
